@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-✉️ &nbsp;Now I work at the Belarusian nuclear power plant. You can shoot me an email at evgeniikapchik@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;Now I work at the Belarusian Nuclear Power Plant. You can shoot me an email at evgeniikapchik@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
